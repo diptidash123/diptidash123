@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Automation Test Engineer with a strong focus on designing, building and scaling test automation frameworks for API, Web/UI, Mobile and End-to-End Testing.  I enjoy learning new technologies and applying them in real-world, production-style projects to improve software quality and reliability. I believe in clean framework design, stable automation and CI-driven testing aligned with modern SDET practices.
+I am a passionate **Automation Test Engineer** with a strong focus on designing, building and scaling test automation frameworks for **API, Web/UI, Mobile and End-to-End Testing**.  I enjoy learning new technologies and applying them in real-world, production-style projects to improve software quality and reliability. I believe in clean framework design, stable automation and CI-driven testing aligned with modern SDET practices.
 
 ---
 
