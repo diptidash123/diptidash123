@@ -64,10 +64,6 @@ I enjoy breaking complex systems with automation and turning **flaky tests into 
   <a href="https://www.linkedin.com/in/dipti-ranjan-dash/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="mailto:diptiranjandasdipti@gmail.com">
-    <img src="https://github.com/user-attachments/assets/ae0ea4db-f6b4-404d-8a52-da6c85a3d280" height="30" width="40"/>
-  </a>
-</p>
 
 
 ---
