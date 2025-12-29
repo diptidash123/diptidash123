@@ -1,29 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dipti Ranjan Dash</h1>
-<h3 align="center">Automation Test Engineer | SDET (API • UI • CI/CD)</h3>
-
-<p align="center">
-  <em>Automating quality, not just tests.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diptidash123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">Automation Test Engineer - SDET </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **passionate Automation Test Engineer** with a strong focus on **designing, building, and scaling test automation frameworks** for **API, Web/UI, and end-to-end testing**.  
-I enjoy learning new technologies and **applying them in real-world, production-style projects** to improve software quality and reliability.
-
-I believe in **clean framework design, stable automation, and CI-driven testing** aligned with modern SDET practices.
+I am a passionate Automation Test Engineer with a strong focus on designing, building and scaling test automation frameworks for API, Web/UI, Mobile and End-to-End Testing.  I enjoy learning new technologies and applying them in real-world, production-style projects to improve software quality and reliability. I believe in clean framework design, stable automation and CI-driven testing aligned with modern SDET practices.
 
 ---
 
 ## 🔭 What I’m Currently Working On
-- Building and enhancing **Java-based automation frameworks** using **Selenium, TestNG, REST Assured, and Maven**
+- Building and enhancing Java-based automation frameworks using **Selenium, TestNG, REST Assured and Maven**
 - Implementing **API + UI + End-to-End automation** with reusable and scalable architecture
-- Improving test stability, reporting, and execution performance
+- Improving test stability, reporting and execution performance
 
 ---
 
@@ -44,9 +33,12 @@ I believe in **clean framework design, stable automation, and CI-driven testing*
 ---
 
 ## 🤝 Looking for Guidance In
-- Advanced CI/CD optimizations
-- Designing scalable automation architectures
-- Improving automation performance in large systems
+- Transitioning from manual testing to SDET roles with real-world automation exposure
+- Designing production-ready automation frameworks (API & UI)
+- Improving code quality, design patterns, and automation best practices
+- Advanced CI/CD integrations using Jenkins
+- Optimizing test execution and reliability at scale
+- Looking to strengthen real-world SDET practices
 
 ---
 
@@ -56,6 +48,8 @@ I believe in **clean framework design, stable automation, and CI-driven testing*
 - Postman & Newman
 - TestNG & Maven
 - Page Object Model (POM)
+- Git and GitHub
+- Performance and Database
 - Automation best practices & CI pipelines
 
 ---
@@ -67,10 +61,14 @@ I enjoy breaking complex systems with automation and turning **flaky tests into 
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dipti-ranjan-dash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/dipti-ranjan-dash/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="mailto:diptiranjandasdipti@gmail.com">
+    <img src="https://github.com/user-attachments/assets/ae0ea4db-f6b4-404d-8a52-da6c85a3d280" height="30" width="40"/>
   </a>
 </p>
+
 
 ---
 
@@ -82,19 +80,31 @@ I enjoy breaking complex systems with automation and turning **flaky tests into 
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://jmeter.apache.org/images/jmeter.png" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYw1AkqlvIjLGmOf4CMa3npUqEANDCMHi9XA&s" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tvx2BFjpYmfiIBLV25XIfVZy4KhCYFLB7w&s" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/06480178-c60d-4b3d-9131-ce6e83474614" width="50" height="150"/>
+   <img src="https://github.com/user-attachments/assets/c94977e6-7c47-4a84-8437-d5d1f4a1f0bf" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/9145a8c1-88c1-446d-aab5-bf4e096c1c39" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=diptidash123&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
-  <img 
-    src="https://streak-stats.demolab.com/?user=diptidash123&theme=github-dark-blue&hide_border=true"
-    height="165"
-  />
+## 🎓 Licenses & Certifications
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e7d62275-7bec-430f-a734-c2bc05e7f60f" width="30" height="30"/>
+  <strong> Core Java for Automation Testers - Coding Made Easy</strong>  
 </p>
+
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e7d62275-7bec-430f-a734-c2bc05e7f60f" width="30" height="30"/>
+  <strong> Postman – Learn API Testing from Scratch with Live Projects</strong>  
+</p>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/c833a151-b293-49d7-a6e5-2fa08b936d2d" width="30" height="30"/>
+  <strong> Certified Associate in Software Testing (CAST)</strong>  
+</p>
+
