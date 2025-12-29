@@ -87,17 +87,6 @@ I enjoy breaking complex systems with automation and turning **flaky tests into 
 ---
 
 ## 🎓 Licenses & Certifications
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/e7d62275-7bec-430f-a734-c2bc05e7f60f" width="30" height="30"/>
-  Core Java for Automation Testers – Coding Made Easy
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/e7d62275-7bec-430f-a734-c2bc05e7f60f" width="30" height="30"/>
-  Postman – Learn API Testing from Scratch with Live Projects
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/c833a151-b293-49d7-a6e5-2fa08b936d2d" width="30" height="30"/>
-  Certified Associate in Software Testing (CAST)
-</p>
+📜 **Core Java for Automation Testers** – Coding Made Easy  
+📜 **Postman – Learn API Testing from Scratch with Live Projects**  
+📜 **Certified Associate in Software Testing (CAST)**
