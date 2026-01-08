@@ -82,6 +82,8 @@ I enjoy breaking complex systems with automation and turning **flaky tests into 
   <img src="https://github.com/user-attachments/assets/06480178-c60d-4b3d-9131-ce6e83474614" width="50" height="150"/>
    <img src="https://github.com/user-attachments/assets/c94977e6-7c47-4a84-8437-d5d1f4a1f0bf" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/9145a8c1-88c1-446d-aab5-bf4e096c1c39" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/88424e47-9bcc-4087-b846-a37d30bcf503" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/68a8a531-b9e1-4f9f-a543-0aadc50aa09d" width="40" height="40"/>
 </p>
 
 ---
