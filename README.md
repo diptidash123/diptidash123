@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dipti Ranjan Dash</h1>
-<h3 align="center">Automation Test Engineer - SDET </h3>
+<p align="center">
+  <b>SDET | Automation Test Engineer</b><br/>
+  <sub>Designing scalable automation frameworks || Breaking systems || Building reliability</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=API+%7C+UI+%7C+End-to-End+Automation;Java+%7C+Selenium+%7C+REST+Assured;CI%2FCD+Driven+Test+Engineering;Turning+Flaky+Tests+Into+Stable+Pipelines" />
+</p>
 
 ---
 
@@ -12,30 +19,30 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
 ## 🔭 What I’m Currently Working On
 - Building and enhancing Java-based automation frameworks using **Selenium, TestNG, REST Assured and Maven**
 - Implementing **API + UI + End-to-End automation** with reusable and scalable architecture
-- Improving test stability, reporting and execution performance
+- Improving test stability, reporting and execution performance of framework
 
 ---
 
 ## 🌱 What I’m Currently Learning
 - Advanced **REST Assured API automation** and API chaining
 - **Test framework design patterns** (POM, Factory, Utilities, Listeners)
-- **Jenkins CI/CD pipelines** for automation execution
+- **Jenkins CI/CD pipelines** for automation execution.
 - Basics of **cloud-based and scalable test execution**
+- Basics of **Docker for automation testing**
 
 ---
 
 ## 👯 Open to Collaborate On
 - Test automation framework development
 - API + UI automation projects
-- CI/CD integration with Jenkins
+- CI/CD integration with Jenkins CRON job(Execution)
 - Open-source QA / automation utilities
 
 ---
 
 ## 🤝 Looking for Guidance In
-- Transitioning from manual testing to SDET roles with real-world automation exposure
 - Designing production-ready automation frameworks (API & UI)
-- Improving code quality, design patterns, and automation best practices
+- Improving code optimization, design patterns, coding standards and automation best practices
 - Advanced CI/CD integrations using Jenkins
 - Optimizing test execution and reliability at scale
 - Looking to strengthen real-world SDET practices
@@ -55,7 +62,7 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
 ---
 
 ## ⚡ Fun Fact
-I enjoy breaking complex systems with automation and turning **flaky tests into stable, reliable test suites** 😄
+I enjoy breaking complex systems with automation and transforming **flaky tests into stable, reliable pipelines**
 
 ---
 
