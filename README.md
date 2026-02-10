@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipti Ranjan Dash</h1>
 <p align="center">
-  <b>SDET | Automation Test Engineer</b><br/>
+  <b>Automation Test Engineer</b><br/>
   <sub>Designing scalable automation frameworks || Breaking systems || Building reliability</sub>
 </p>
 
@@ -34,18 +34,17 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
 
 ## 👯 Open to Collaborate On
 - Test automation framework development
-- API + UI automation projects
+- API + UI + Mobile automation projects
 - CI/CD integration with Jenkins CRON job(Execution)
-- Open-source QA / automation utilities
 
 ---
 
 ## 🤝 Looking for Guidance In
-- Designing production-ready automation frameworks (API & UI)
+- Designing production-ready automation frameworks (API & UI & MOBILE)
 - Improving code optimization, design patterns, coding standards and automation best practices
 - Advanced CI/CD integrations using Jenkins
 - Optimizing test execution and reliability at scale
-- Looking to strengthen real-world SDET practices
+- Looking to strengthen real-world SDET practices and AI Testing
 
 ---
 
@@ -58,11 +57,6 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
 - Git and GitHub
 - Performance and Database
 - Automation best practices & CI pipelines
-
----
-
-## ⚡ Fun Fact
-I enjoy breaking complex systems with automation and transforming **flaky tests into stable, reliable pipelines**
 
 ---
 
