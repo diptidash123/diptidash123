@@ -66,27 +66,6 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 
-
----
-
-## 🛠️ Languages & Tools
-/*<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://jmeter.apache.org/images/jmeter.png" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYw1AkqlvIjLGmOf4CMa3npUqEANDCMHi9XA&s" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tvx2BFjpYmfiIBLV25XIfVZy4KhCYFLB7w&s" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/06480178-c60d-4b3d-9131-ce6e83474614" width="50" height="150"/>
-   <img src="https://github.com/user-attachments/assets/c94977e6-7c47-4a84-8437-d5d1f4a1f0bf" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/9145a8c1-88c1-446d-aab5-bf4e096c1c39" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/88424e47-9bcc-4087-b846-a37d30bcf503" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/68a8a531-b9e1-4f9f-a543-0aadc50aa09d" width="40" height="40"/>
-</p>*/
-
 ---
 
 ## 🎓 Licenses & Certifications
