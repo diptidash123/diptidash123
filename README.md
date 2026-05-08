@@ -70,7 +70,7 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
 ---
 
 ## 🛠️ Languages & Tools
-<p align="left">
+/*<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
@@ -85,7 +85,7 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
   <img src="https://github.com/user-attachments/assets/9145a8c1-88c1-446d-aab5-bf4e096c1c39" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/88424e47-9bcc-4087-b846-a37d30bcf503" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/68a8a531-b9e1-4f9f-a543-0aadc50aa09d" width="40" height="40"/>
-</p>
+</p>*/
 
 ---
 
