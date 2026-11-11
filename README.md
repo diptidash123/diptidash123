@@ -71,9 +71,10 @@ I am a passionate **QA Automation Engineer** focused on designing and building s
 
 ---
 
-## 🎓 Licenses & Certifications
-📜 **Playwright JS/TS Automation Testing from Scratch & Framework** 
-📜 **SDET Automation Training – Web/UI Automation,API Automation,Mobile Automation,Devops Tools,GEN AI**
-📜 **Core Java for Automation Testers** – Coding Made Easy  
-📜 **Postman – Learn API Testing from Scratch with Live Projects**  
-📜 **Certified Associate in Software Testing (CAST)**
+## 🎓 Certifications & Professional Training
+
+- 📜 **Playwright JS/TS Automation Testing from Scratch & Framework Development**
+- 📜 **SDET Automation Training** – Web/UI, API & Mobile Automation, DevOps Tools, and Generative AI
+- 📜 **Core Java for Automation Testers** – Programming Fundamentals & Practical Coding
+- 📜 **Postman – API Testing from Scratch with Hands-on Projects**
+- 📜 **Certified Associate in Software Testing (CAST)**
