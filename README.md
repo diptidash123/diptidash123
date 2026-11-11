@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=API+%7C+UI+%7C+End-to-End+Automation;Java+%7C+Selenium+%7C+REST+Assured;CI%2FCD+Driven+Test+Engineering;Turning+Flaky+Tests+Into+Stable+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=API+%7C+UI+%7C+End-to-End+Automation;Java+%7C+JavaScript+%7C+TypeScript;Playwright+%7C+Selenium+%7C+REST+Assured;MCP+%7C+AI-Powered+Test+Automation;CI%2FCD+Driven+Test+Engineering;Building+Scalable+%26+Reliable+Frameworks" />
 </p>
 
 ---
