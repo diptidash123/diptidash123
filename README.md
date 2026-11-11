@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipti Ranjan Dash</h1>
 <p align="center">
-  <b>Automation Test Engineer</b><br/>
-  <sub>Designing scalable automation frameworks || Breaking systems || Building reliability</sub>
+  <b>QA Automation Engineer</b><br/>
+  <sub>Designing scalable automation frameworks | Mastering Playwright with TypeScript | Breaking systems | Building quality & reliability 🚀</sub>
 </p>
 
 <p align="center">
@@ -12,51 +12,54 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Automation Test Engineer** with a strong focus on designing, building and scaling test automation frameworks for **API, Web/UI, Mobile and End-to-End Testing**.  I enjoy learning new technologies and applying them in real-world, production-style projects to improve software quality and reliability. I believe in clean framework design, stable automation and CI-driven testing aligned with modern SDET practices.
+I am a passionate **QA Automation Engineer** focused on designing and building scalable automation frameworks for **Web/UI, API, Mobile, and End-to-End Testing**. Experienced in **Selenium WebDriver, Playwright with TypeScript, Page Object Model (POM), reusable fixtures, API automation, and cross-browser testing**. I enjoy exploring modern testing technologies, implementing **auto-waiting, parallel execution, test isolation, and CI/CD integration** to deliver stable automation, improve software quality, and ensure application reliability.
 
 ---
 
 ## 🔭 What I’m Currently Working On
-- Building and enhancing Java-based automation frameworks using **Selenium, TestNG, REST Assured and Maven**
-- Implementing **API + UI + End-to-End automation** with reusable and scalable architecture
-- Improving test stability, reporting and execution performance of framework
+- Designing and enhancing scalable **Playwright automation frameworks using TypeScript**.
+- Implementing **UI, API, and End-to-End automation** using Page Object Model (POM), reusable fixtures, and APIRequestContext.
+- Leveraging **auto-waiting, cross-browser testing, parallel execution, and test isolation** for reliable automation.
+- Integrating **HTML reporting, screenshots, traces, and CI/CD pipelines** to improve test visibility and execution efficiency.
 
 ---
 
 ## 🌱 What I’m Currently Learning
-- Advanced **REST Assured API automation** and API chaining
-- **Test framework design patterns** (POM, Factory, Utilities, Listeners)
-- **Jenkins CI/CD pipelines** for automation execution.
-- Basics of **cloud-based and scalable test execution**
-- Basics of **Docker for automation testing**
+- **Advanced Playwright with TypeScript** – fixtures, custom utilities, API automation, and framework optimization.
+- **Playwright Framework Design Patterns** – POM, reusable components, custom fixtures, and modular architecture.
+- **API Automation** – REST API testing, API chaining, request context, and response validation.
+- **CI/CD Integration** – GitHub Actions and Jenkins for automated test execution.
+- **Scalable Test Execution** – parallel execution, cross-browser testing, and cloud-based testing.
+- **Docker for Automation Testing** – containerization and consistent test environments.
 
 ---
 
 ## 👯 Open to Collaborate On
-- Test automation framework development
-- API + UI + Mobile automation projects
-- CI/CD integration with Jenkins CRON job(Execution)
+- Playwright & Selenium Automation – Framework development and optimization.
+- API, Web/UI & Mobile Automation – Building reliable end-to-end testing solutions.
+- CI/CD Integration – Jenkins pipelines, scheduled (cron-based) test execution, and GitHub Actions.
+- Scalable Test Automation – Cross-browser testing, parallel execution, and framework enhancements.
 
 ---
 
 ## 🤝 Looking for Guidance In
-- Designing production-ready automation frameworks (API & UI & MOBILE)
-- Improving code optimization, design patterns, coding standards and automation best practices
-- Advanced CI/CD integrations using Jenkins
-- Optimizing test execution and reliability at scale
-- Looking to strengthen real-world SDET practices and AI Testing
+- Designing production-ready automation frameworks using Playwright (TypeScript) for API, Web/UI, Mobile, and End-to-End Testing.
+- Improving code optimization, framework design patterns, coding standards, and automation best practices.
+- Building advanced CI/CD integrations using Jenkins and GitHub Actions.
+- Optimizing test execution, parallelization, and automation reliability at scale.
+- Strengthening real-world SDET practices, Playwright expertise, and AI-powered testing.
 
 ---
 
 ## 💬 Ask Me About
-- Selenium Web Automation
-- REST Assured API Testing
+- Selenium WebDriver & Playwright (TypeScript)
+- REST Assured API Testing & Playwright API Testing
 - Postman & Newman
-- TestNG & Maven
-- Page Object Model (POM)
-- Git and GitHub
-- Performance and Database
-- Automation best practices & CI pipelines
+- TestNG, Maven & Playwright Test Runner
+- Page Object Model (POM) & Reusable Fixtures
+- Git & GitHub
+- Performance Testing & Database Testing
+- Automation Best Practices, CI/CD Pipelines & GitHub Actions
 
 ---
 
@@ -69,6 +72,8 @@ I am a passionate **Automation Test Engineer** with a strong focus on designing,
 ---
 
 ## 🎓 Licenses & Certifications
+📜 **Playwright JS/TS Automation Testing from Scratch & Framework** 
+📜 **SDET Automation Training – Web/UI Automation,API Automation,Mobile Automation,Devops Tools,GEN AI**
 📜 **Core Java for Automation Testers** – Coding Made Easy  
 📜 **Postman – Learn API Testing from Scratch with Live Projects**  
 📜 **Certified Associate in Software Testing (CAST)**
